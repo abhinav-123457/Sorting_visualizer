@@ -1,24 +1,26 @@
 # Sorting_visualizer
 Sorting Visualizer is an interactive web application that visualizes the process of different sorting algorithms step by step. The aim of the project is to provide a better understanding of how sorting algorithms work and how they perform on various input arrays.
-1. Introduction
+##1. Introduction
 Sorting algorithms are a fundamental topic in computer science and are critical in learning Data Structures and Algorithms (DSA). Sorting Visualizer is an interactive web application that visualizes the process of different sorting algorithms step by step. The aim of the project is to provide a better understanding of how sorting algorithms work and how they perform on various input arrays.
 
-2. Objective
+##2. Objective
 The objective of this project is to create an engaging tool that helps students visualize and learn different sorting algorithms effectively. This interactive tool allows users to select various algorithms, adjust the size of the array, and control the sorting speed. Additionally, it ensures that students can see the real-time sorting process of arrays through animations.
 
-3. Project Overview
+##3. Project Overview
 This project allows the user to:
 
 Visualize the process of sorting through animations.
 Choose from different sorting algorithms.
 Control the array size and sorting speed.
 Display a message when the array is already sorted.
-3.1 Technology Stack
+
+##3.1 Technology Stack
 Frontend Framework: React.js
 Styling: CSS
 Icons: React Icons
 Development Tools: Visual Studio Code, GitHub
-3.2 User Interface
+
+##3.2 User Interface
 The user interface consists of an array visualization area and control buttons that allow the user to:
 
 Generate a new array.
