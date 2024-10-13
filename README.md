@@ -74,7 +74,7 @@ Algorithm Comparisons: Comparing the performance of different sorting algorithms
 Mobile-Friendly Interface: Optimize the tool for mobile devices, making it accessible to a wider audience.
 Dark Mode: Add a dark mode for improved user experience during extended use.
 
-#10. References
+# 10. References
 React.js Documentation: https://reactjs.org/docs/getting-started.html
 Sorting Algorithm Explanation: https://www.geeksforgeeks.org/sorting-algorithms/
 CSS for Animations: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations
