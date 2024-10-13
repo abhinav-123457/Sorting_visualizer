@@ -15,7 +15,7 @@ Choose from different sorting algorithms.
 Control the array size and sorting speed.
 Display a message when the array is already sorted.
 
-# 3.1 Technology Stack
+## 3.1 Technology Stack
 Frontend Framework: React.js
 Styling: CSS
 Icons: React Icons
